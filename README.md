@@ -1,1 +1,1 @@
-My First repo created for Java Practive
+My First repo created for Java Practice
